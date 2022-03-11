@@ -1,0 +1,62 @@
+.frm-login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #44b7c2;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    min-width: 3rem;
+    min-height: 3rem;
+}
+
+.vertical-center {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+
+.horizontal-center {
+    margin: 0 auto;
+}
+
+label {
+    font-weight: none;
+    font-size: 15px;
+}
+
+.card-branco {
+    border-radius: 10px;
+    padding: 25px;
+    min-width: 75vw;
+}
+
+.form-group {
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.centered {
+    margin: 0 auto;
+    float: none;
+}
+
+.frm-login .itens-frm {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #44b7c2;
+    height: 20rem;
+    width: 20rem;
+    border-radius: 6px;
+    padding-bottom: 20px;
+}
+
+.itens-frm .item-frm {
+    padding: 7px;
+}
+
+.frm-login .logo-frm {
+    max-height: 150px;
+}
